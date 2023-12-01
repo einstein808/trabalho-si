@@ -193,14 +193,14 @@ A seguir  estão exemplos específicos de código analisados pela ferramenta de 
 ###  Vulnerabilidades que eu consegui encontrar.
 
 1. **SQL Injection**
-   ![Alt Text](.\sqlinjection.gif)
+   ![Alt Text](https://github.com/einstein808/trabalho-si/blob/main/sqlinjection.gif)
 
 2.**Missing Access Restriction to Directory Listing (CWE-548):**
-![alt text](C:\Dev\trabalho segurança\ftp.gif)
+![alt text](.\ftp.gif)
 
 3. **Missing Access Restriction to Directory Listing (CWE-548):**
 
-   ![](.\administration.webp)
+   ![](https://github.com/einstein808/trabalho-si/blob/main/administration.webp))
 
 ![](./adm.gif)
 
