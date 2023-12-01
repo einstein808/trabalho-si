@@ -196,13 +196,13 @@ A seguir  estão exemplos específicos de código analisados pela ferramenta de 
    ![Alt Text](https://github.com/einstein808/trabalho-si/blob/main/sqlinjection.gif)
 
 2.**Missing Access Restriction to Directory Listing (CWE-548):**
-![alt text](.\ftp.gif)
+![alt text](https://github.com/einstein808/trabalho-si/blob/main/ftp.gif))
 
 3. **Missing Access Restriction to Directory Listing (CWE-548):**
 
    ![](https://github.com/einstein808/trabalho-si/blob/main/administration.webp))
 
-![](./adm.gif)
+![](https://github.com/einstein808/trabalho-si/blob/main/adm.gif))
 
 ## Críticas à Utilização da Ferramenta
 
