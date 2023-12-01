@@ -26,6 +26,24 @@ A instalação da ferramenta Bearer Scan pode ser realizada com os seguintes pas
 
 A ferramenta está agora pronta para uso após essas etapas.
 
+Eu fiz a instalação através de maquina virtual em ubuntu via terminal
+
+```
+sudo apt-get install apt-transport-https
+echo "deb [trusted=yes] https://apt.fury.io/bearer/ /" | sudo tee -a /etc/apt/sources.list.d/fury.list
+sudo apt-get update
+sudo apt-get install bearer
+```
+
+Depois clonei repositório Juice Shop
+https://github.com/juice-shop/juice-shop
+
+Depois fiz o scan via repositório
+
+``bearer scan juice-shop``
+
+
+
 ## Utilização da Ferramenta
 
 A Bearer Scan é uma ferramenta abrangente que oferece diversas funcionalidades para identificar vulnerabilidades em aplicações web. Aqui estão algumas das principais funcionalidades:
